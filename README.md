@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+# 🍽️ Restaurant Menu Web App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern and fully responsive **Restaurant Menu Web Application** built with **React**, **React Router**, and **Bun**. This app allows users to:
 
-## Available Scripts
+- Browse a restaurant’s menu
+- View detailed food items
+- Add items to a cart
+- Place an order
 
-In the project directory, you can run:
+> 🚀 Fast, sleek, and ready for both desktop and mobile dining experiences.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📸 Demo Screenshot
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Restaurant Menu Screenshot](./screenshots/restaurant-menu-ui.png)  
+<!-- Replace with actual image path once uploaded -->
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## ✨ Features
 
-### `npm run build`
+- 🍔 **Dynamic Menu Display**  
+  View categorized food items with images, prices, and descriptions.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- 🛒 **Add to Cart / Order System**  
+  Easily add and remove items from your cart, with real-time total cost calculation.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- 🔀 **Routing with React Router**  
+  Seamless page transitions between Menu, Cart, and Order Summary.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- 📱 **Mobile-first Responsive Design**  
+  Optimized for all screen sizes using modern CSS practices.
 
-### `npm run eject`
+- ⚡ **Powered by Bun**  
+  Ultra-fast dev experience with Bun’s modern JS runtime and package manager.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🧑‍🍳 Tech Stack
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- **Frontend:** React, React Router DOM
+- **Styling:** CSS Modules / Tailwind CSS
+- **Runtime & Package Manager:** [Bun](https://bun.sh)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## 🚀 Installation & Setup
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Prerequisites
+- Node 18+ _(Bun requires Node 18+ features)_
+- [Bun](https://bun.sh) installed globally:  
+  ```bash
+  curl -fsSL https://bun.sh/install | bash
+### Clone & Run the App
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Clone the repository
+git clone https://github.com/your-username/restaurant-menu-app.git
+cd restaurant-menu-app
 
-### Code Splitting
+# Install dependencies
+bun install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+# Start the dev server
+bun dev
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
