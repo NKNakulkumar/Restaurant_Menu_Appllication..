@@ -13,7 +13,7 @@ A modern and fully responsive **Restaurant Menu Web Application** built with **R
 
 ## 📸 Demo Screenshot
 
-![Restaurant Menu Screenshot](./screenshots/restaurant-menu-ui.png)  
+![Restaurant Menu Screenshot](https://colorlib.com/wp/wp-content/uploads/sites/2/6_restaurant-website-designs.jpg)  
 <!-- Replace with actual image path once uploaded -->
 
 ---
