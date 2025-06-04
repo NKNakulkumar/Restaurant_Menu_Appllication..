@@ -64,5 +64,13 @@ bun install
 # 🚀 Start the development server
 bun dev
 
+## 🚀 Demo
 
+Explore the live demo of the **Restaurant Menu Web App** in action:
+
+### 🔗 Live URL  
+**[🌐 View Demo](https://nakulmenuapp.netlify.app/)**  
+<!-- Replace with your actual deployed link -->
+
+---
 
