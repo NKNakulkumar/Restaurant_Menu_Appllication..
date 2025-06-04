@@ -54,14 +54,15 @@ A modern and fully responsive **Restaurant Menu Web Application** built with **R
   curl -fsSL https://bun.sh/install | bash
 ### Clone & Run the App
 
-# Clone the repository
+# 📥 Clone the repository
 git clone https://github.com/your-username/restaurant-menu-app.git
 cd restaurant-menu-app
 
-# Install dependencies
+# 📦 Install dependencies using Bun
 bun install
 
-# Start the dev server
+# 🚀 Start the development server
 bun dev
+
 
 
