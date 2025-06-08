@@ -35,7 +35,7 @@ A modern and fully responsive **Restaurant Menu Web Application** built with **R
 - ⚡ **Powered by Bun**  
   Ultra-fast dev experience with Bun’s modern JS runtime and package manager.
 
----
+--- 
 
 ## 🧑‍🍳 Tech Stack
 
