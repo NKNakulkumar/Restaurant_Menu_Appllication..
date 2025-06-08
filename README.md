@@ -1,6 +1,6 @@
 # 🍽️ Restaurant Menu Web App
 
-A modern and fully responsive **Restaurant Menu Web Application** built with **React**, **React Router**, and **Bun**. This app allows users to:
+A modern and fully responsive **Restaurant Menu Web Application** built with **React**, **React Router**, and **Bun**. This app allows users to: 
 
 - Browse a restaurant’s menu
 - View detailed food items
