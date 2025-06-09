@@ -62,6 +62,7 @@ const Navbar = ({ filterItem, menuList }) => {
 Navbar.propTypes = {
   filterItem: PropTypes.func.isRequired,
   menuList: PropTypes.arrayOf(PropTypes.string).isRequired,
+  
 };
 
 export default Navbar;
