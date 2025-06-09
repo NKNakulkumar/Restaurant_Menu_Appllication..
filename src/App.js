@@ -2,7 +2,6 @@
 import Resturent from "./Resturent.js";
 import './style.css';
 
-
 const App = () => {
   return Resturent(
 
